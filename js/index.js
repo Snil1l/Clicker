@@ -28,6 +28,3 @@ function clickD() {
         count.textContent = result;
     };
 };
-
-xooooooasdf\
-sadfg
